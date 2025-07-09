@@ -79,7 +79,7 @@ Developed as part of an internship project to demonstrate frontend skills.
 🧾 Internship Submission Details
 👨‍💻 Developed by: Chapala Sriram
 🏢 Internship: CodeAlpha 
-📅 Submission Date: 15/09/2025
+📅 Submission Date: 09/07/2025
 
 
 🌟 Feel free to fork, customize, and use this template for your own portfolio!
